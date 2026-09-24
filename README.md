@@ -37,25 +37,25 @@ The sections below follow the order of the assignment.
 
 | # | Notebook | What it covers | Colab | Video |
 |---|---|---|---|---|
-| 8 | [Intro to Probability: Zero to Hero](executed/Agasaveeran_final_intro_to_probability_zero_to_hero_for_ml.ipynb) | Sample spaces, events, probability rules, simulation, combining events, conditional probability, Bayes, random variables, distributions (spam-inbox example) | TODO | TODO |
-| 9 | [Intro to Statistics: Zero to Hero](executed/final_intro_to_statistics_zero_to_hero_for_ml.ipynb) | Centre/spread/shape, robust statistics, populations vs samples, bias & variance of estimators, sampling distributions, CLT, confidence intervals, hypothesis testing | TODO | TODO |
-| 10 | [Probability Fundamentals for Deep Learning](executed/Agasaveeran_final_probability_fundamentals_for_deep_learning.ipynb) | Probability vocabulary, rules, conditional probability, Bayes, distributions, expectation/variance, **MLE**, entropy & cross-entropy, softmax classification pipeline | TODO | TODO |
-| 11 | [Statistics for Deep Learning](executed/Agasaveeran_final_statistics_for_deep_learning.ipynb) | Descriptive statistics, probability, distributions, expectation & variance, Bayes, MLE, and how each shows up in training neural nets | TODO | TODO |
-| 12 | [Foundations 3 — Probability & Statistics: the DATA box](executed/Agasaveeran_final_foundations_3_probability.ipynb) | Conditional probability, Bayes' theorem, base rates (the medical-test example), distributions, likelihood | TODO | TODO |
+| 8 | [Intro to Probability: Zero to Hero](executed/Agasaveeran_final_intro_to_probability_zero_to_hero_for_ml.ipynb) | Sample spaces, events, probability rules, simulation, combining events, conditional probability, Bayes, random variables, distributions (spam-inbox example) | https://drive.google.com/file/d/1TWyGZkuZRsYPlhWR9TBEZ1TgxbDmKI0E/view?usp=sharing | TODO |
+| 9 | [Intro to Statistics: Zero to Hero](executed/final_intro_to_statistics_zero_to_hero_for_ml.ipynb) | Centre/spread/shape, robust statistics, populations vs samples, bias & variance of estimators, sampling distributions, CLT, confidence intervals, hypothesis testing | https://drive.google.com/file/d/1_3ZYtgGdSZeR4AeL_Id5tlXL91VaxLbx/view?usp=sharing | TODO |
+| 10 | [Probability Fundamentals for Deep Learning](executed/Agasaveeran_final_probability_fundamentals_for_deep_learning.ipynb) | Probability vocabulary, rules, conditional probability, Bayes, distributions, expectation/variance, **MLE**, entropy & cross-entropy, softmax classification pipeline | https://drive.google.com/file/d/1jkIIk6FuPoU18Pmx4k8ohFZwmxoDY4ds/view?usp=sharing | TODO |
+| 11 | [Statistics for Deep Learning](executed/Agasaveeran_final_statistics_for_deep_learning.ipynb) | Descriptive statistics, probability, distributions, expectation & variance, Bayes, MLE, and how each shows up in training neural nets | https://drive.google.com/file/d/1DGxtg2bdC3sn9Tw0IAaRT9gOG_BjPmxH/view?usp=sharing | TODO |
+| 12 | [Foundations 3 — Probability & Statistics: the DATA box](executed/Agasaveeran_final_foundations_3_probability.ipynb) | Conditional probability, Bayes' theorem, base rates (the medical-test example), distributions, likelihood | https://drive.google.com/file/d/1x-zqvu65FPj10wXeJyNIzewrIl4XbGuR/view?usp=sharing | TODO |
 
 ### Part D — Calculus
 
 | # | Notebook | What it covers | Colab | Video |
 |---|---|---|---|---|
-| 13 | [Intro to Calculus: Zero to Hero](executed/Agasaveeran_final_intro_to_calculus_zero_to_hero_for_ml.ipynb) | Functions, rate of change, limits, continuity, derivatives, derivative rules, chain rule, partial derivatives, optimization | TODO | TODO |
-| 14 | [Calculus for Deep Learning](executed/Agasaveeran_final_calculus_for_deep_learning.ipynb) | Derivatives, chain rule, gradients, gradient descent, **backpropagation**, vanishing/exploding gradients, gradient checking, PyTorch autograd | TODO | TODO |
-| 15 | [Foundations 4 — Calculus: the LOSS & UPDATE boxes](executed/Agasaveeran_final_foundations_4_calculus.ipynb) | Derivatives and their sign, partial derivatives, gradient as steepest ascent, gradient descent, chain rule → backprop | TODO | TODO |
+| 13 | [Intro to Calculus: Zero to Hero](executed/Agasaveeran_final_intro_to_calculus_zero_to_hero_for_ml.ipynb) | Functions, rate of change, limits, continuity, derivatives, derivative rules, chain rule, partial derivatives, optimization | https://drive.google.com/file/d/1QZusXhiGa7xZpA7HbgRCr6dpzSYfOzCW/view?usp=sharing | TODO |
+| 14 | [Calculus for Deep Learning](executed/Agasaveeran_final_calculus_for_deep_learning.ipynb) | Derivatives, chain rule, gradients, gradient descent, **backpropagation**, vanishing/exploding gradients, gradient checking, PyTorch autograd | https://drive.google.com/file/d/1r2R8xQCOrDvWptDzwVT-gqHUngpPx_No/view?usp=sharing | TODO |
+| 15 | [Foundations 4 — Calculus: the LOSS & UPDATE boxes](executed/Agasaveeran_final_foundations_4_calculus.ipynb) | Derivatives and their sign, partial derivatives, gradient as steepest ascent, gradient descent, chain rule → backprop | https://drive.google.com/file/d/13KLGuQHplxjtXJ3wjL6aIOyqgfCKhS4j/view?usp=sharing | TODO |
 
 ### Part E — Foundations of Learning
 
 | # | Notebook | What it covers | Colab | Video |
 |---|---|---|---|---|
-| 16 | [Foundations 1 — The Learning Machine](executed/Agasaveeran_final_foundations_1_the_learning_machine.ipynb) | AI ⊃ ML ⊃ DL, supervised/unsupervised/RL, model as tunable numbers, squared-error loss, gradient & learning rate, the full training loop | TODO | TODO |
+| 16 | [Foundations 1 — The Learning Machine](executed/Agasaveeran_final_foundations_1_the_learning_machine.ipynb) | AI ⊃ ML ⊃ DL, supervised/unsupervised/RL, model as tunable numbers, squared-error loss, gradient & learning rate, the full training loop | https://drive.google.com/file/d/1Fw8SkddzK7Mp9atAFx-gpOKcM4oXiISV/view?usp=sharing | TODO |
 
 ---
 
