@@ -55,7 +55,7 @@ The sections below follow the order of the assignment.
 
 | # | Notebook | What it covers | Colab | Video |
 |---|---|---|---|---|
-| 16 | [Foundations 1 — The Learning Machine](executed/Agasaveeran_final_foundations_1_the_learning_machine.ipynb) | AI ⊃ ML ⊃ DL, supervised/unsupervised/RL, model as tunable numbers, squared-error loss, gradient & learning rate, the full training loop | [Foundations 1: The Learning Machine (Colab)](https://drive.google.com/file/d/1Fw8SkddzK7Mp9atAFx-gpOKcM4oXiISV/view?usp=sharing) | TODO |
+| 16 | [Foundations 1 — The Learning Machine](executed/Agasaveeran_final_foundations_1_the_learning_machine.ipynb) | AI ⊃ ML ⊃ DL, supervised/unsupervised/RL, model as tunable numbers, squared-error loss, gradient & learning rate, the full training loop | [Foundations 1: The Learning Machine (Colab)](https://drive.google.com/file/d/1Fw8SkddzK7Mp9atAFx-gpOKcM4oXiISV/view?usp=sharing) | [Foundations 1: The Learning Machine Walkthrough](https://www.loom.com/share/eac5f791ae17494191d88024c201b0cf) |
 
 ---
 
